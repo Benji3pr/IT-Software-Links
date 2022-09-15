@@ -1,4 +1,4 @@
-# IT-Software-Links
+# IT Software Links
 Links for software used in IT
 
 * Disk Utilitis:
